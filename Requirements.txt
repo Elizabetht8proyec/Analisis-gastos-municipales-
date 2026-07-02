@@ -1,0 +1,6 @@
+streamlist
+pandas
+seaborn
+matplotlib
+plotly
+pygwalker
